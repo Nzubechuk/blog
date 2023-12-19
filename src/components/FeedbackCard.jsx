@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import quote from "../assets/quotee.png";
 
 const FeedbackCard = ({ content, name, img }) => (

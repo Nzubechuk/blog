@@ -10,7 +10,7 @@ const Tracking = () => {
 
   return (
     <div
-      className="Tracking flex justify-center items-center justify-around"
+      className="Tracking flex justify-center items-center"
       id="tracking"
     >
       <div className="hidden md:flex">
